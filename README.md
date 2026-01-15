@@ -20,9 +20,9 @@
 
 ### 🌐 Connect with Me  
 <p align="left">
-  <a href="#"><img src="https://img.icons8.com/color/48/linkedin.png" width="40"/></a>
-  <a href="#"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40"/></a>
-  <a href="#"><img src="https://img.icons8.com/fluency/48/github.png" width="40"/></a>
+  <a href="www.linkedin.com/in/vishal-chakradhari-b481272ba"><img src="https://img.icons8.com/color/48/linkedin.png" width="40"/></a>
+  <a href="https://www.instagram.com/glitch_core_dev?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40"/></a>
+  
 </p>
 
 ---
