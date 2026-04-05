@@ -12,17 +12,21 @@
 - 🧠 Learning **C++** to understand game architecture  
 - 🧊 Practicing **3D modeling in Blender**  
 - ⚙️ Exploring **Unreal Engine** for real-time projects  
+- 🎵 Creating **Asset Soundscapes** and game music in **FL Studio**
 - ♟️ Strategy mindset — I play **chess**  
-- ✏️ Creative — I sketch ideas for game concepts  
+- ✏️ Creative — I sketch ideas for game concepts and design digital art
 - 🚀 My goal: build and publish my own game  
 
 ---
 
 ### 🌐 Connect with Me  
 <p align="left">
-  <a href="www.linkedin.com/in/vishal-chakradhari-b481272ba"><img src="https://img.icons8.com/color/48/linkedin.png" width="40"/></a>
-  <a href="https://www.instagram.com/glitch_core_dev?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40"/></a>
-  
+  <a href="www.linkedin.com/in/vishal-chakradhari-b481272ba"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/vritrahan_studios/"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" alt="Instagram"/></a>
+  <a href="https://youtube.com/@vritrahan_studios"><img src="https://img.icons8.com/color/48/youtube-play.png" width="40" alt="YouTube"/></a>
+  <a href="https://chakradhari_studios.artstation.com/"><img src="https://img.icons8.com/color/48/null/artstation.png" width="40" alt="ArtStation"/></a>
+  <a href="https://in.pinterest.com/vishalchakradhari6/"><img src="https://img.icons8.com/color/48/pinterest.png" width="40" alt="Pinterest"/></a>
+  <a href="https://open.spotify.com/artist/27yzB61IcKwnJ8geZdHuhq?si=fqnruN1-RX6I9x6yI8nPaQ"><img src="https://img.icons8.com/color/48/spotify.png" width="40" alt="Spotify"/></a>
 </p>
 
 ---
@@ -55,6 +59,11 @@
   <img src="https://img.icons8.com/color/96/git.png" width="50"/>
 </a>
 
+<!-- FL Studio -->
+<a href="https://www.image-line.com/" target="_blank">
+  <img src="https://img.icons8.com/fluency/96/fl-studio.png" width="50"/>
+</a>
+
 </p>
 
 ---
@@ -64,6 +73,7 @@
 - 📌 Build small Unreal prototypes  
 - 📌 Model simple assets in Blender  
 - 📌 Create simple game mechanics  
+- 📌 Produce original soundtracks and soundscapes
 - 📌 Publish a small playable demo  
 - 📌 Improve based on user feedback  
 
