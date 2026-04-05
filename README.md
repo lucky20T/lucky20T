@@ -1,64 +1,139 @@
-<h1 align="center">Hi 👋, I'm Vishal Chakradhari</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://i.gifer.com/origin/5c/5c8a94f1c4b04c0f9cecf05a4e229d03_w200.gif" width="120" alt="controller">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Vishal%20Chakradhari&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Game%20Developer%20%7C%20C%2B%2B%20Student%20%7C%203D%20Artist&descSize=18&descAlignY=65&descColor=a78bfa"/>
 
-## > whoami
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+immersive+games+%F0%9F%8E%AE;Unreal+Engine+%2B+C%2B%2B+Dev;Crafting+Soundscapes+in+FL+Studio;Blender+3D+Environment+Artist;Open+to+Collaborations+%F0%9F%A4%9D" />
+
+</div>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-lucky20T.github.io-7c3aed?style=for-the-badge&labelColor=1e1b4b)](https://github.com/lucky20T)
+[![Email](https://img.shields.io/badge/📧_Email-vishalchakradhari2025-7c3aed?style=for-the-badge&labelColor=1e1b4b)](mailto:vishalchakradhari2025@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=lucky20T&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/lucky20T)
+
+</div>
+
+---
+
+## `> whoami`
 
 ```javascript
 const vishal = {
-  name: "Vishal Chakradhari",
-  role: "Aspiring Game Developer",
+  name     : "Vishal Chakradhari",
+  role     : "Aspiring Game Developer",
   education: "B.Tech CST @ Sage University, Indore (2024 → Present)",
-  location: "Indore, Madhya Pradesh",
-  learning: ["C++", "Unreal Engine 5", "Game Architecture", "Data Structures & Algorithms"],
-  interests: ["Game Mechanics", "3D Environment Art (Blender)", "Soundscapes (FL Studio)", "Chess", "Digital Art"],
-  mission: "Build a game prototype using C++ + Unreal Engine and release it publicly.",
-  available: true // always open for collaborations and small team projects
+  location : "Indore, Madhya Pradesh ",
+  learning : ["C++", "Unreal Engine 5", "Data Structures & Algorithms"],
+  building : "Immersive game mechanics & 3D environments",
+  available: true  // open to collaborations and team projects
 };
 ```
 
+---
+
 ## ⚡ Tech Arsenal
-<p align="left">
-<!-- Game Engines / Software -->
-<a href="https://www.unrealengine.com/" target="_blank"><img src="https://img.icons8.com/nolan/96/unreal-engine.png" width="50" alt="Unreal Engine"/></a>
-<a href="https://www.blender.org/" target="_blank"><img src="https://img.icons8.com/color/96/blender-3d.png" width="50" alt="Blender"/></a>
-<a href="https://www.image-line.com/" target="_blank"><img src="https://img.icons8.com/fluency/96/fl-studio.png" width="50" alt="FL Studio"/></a>
 
-<!-- Languages / Tools -->
-<a href="https://isocpp.org/" target="_blank"><img src="https://img.icons8.com/color/96/c-plus-plus-logo.png" width="50" alt="C++"/></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/96/python--v1.png" width="50" alt="Python"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/96/git.png" width="50" alt="Git"/></a>
-</p>
+<div align="center">
 
-## ⚔️ Game Dev Skill Path
-- [x] Learn C++ fundamentals
-- [x] Model simple assets in Blender
-- [ ] Build small Unreal prototypes
-- [ ] Create simple game mechanics
-- [ ] Produce original soundtracks and soundscapes
-- [ ] Publish a small playable demo
-- [ ] Improve based on user feedback
+**Game Engines & Tools**
+
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender_3D-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![FL Studio](https://img.shields.io/badge/FL_Studio-FF8C00?style=for-the-badge&logo=flstudio&logoColor=white)
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 🛠️ Projects
+
+> Actively working on prototypes and projects. Case studies will be published as they reach a shareable state.
+
+| # | Project | What it is | Status |
+|---|---------|-----------|------|
+| 🎮 | **Gameplay Systems Prototype** | Core gameplay loops, AI, & movement systems in UE5 | *Coming Soon* |
+| 🧊 | **3D Environment & Assets** | Models, textures, and game-ready environments | *Coming Soon* |
+| 💻 | **DSA Practice & Mini-Tools** | C++ utility tools and algorithm implementations | *In Progress* |
+| 🎵 | **Lofi G-3 Audio Track** | Relaxing game audio produced in FL Studio | *Available on Portfolio* |
+| 🎵 | **Try H-4 Audio Track** | Experimental game audio produced in FL Studio | *Available on Portfolio* |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucky20T&theme=tokyonight&border_radius=12&hide_border=true&background=0D1117&stroke=7c3aed&ring=a78bfa&fire=ff6b6b&currStreakNum=ffffff&sideNums=a78bfa&currStreakLabel=a78bfa&sideLabels=7c3aed&dates=888888" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=lucky20T&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky20T&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=ffffff&langs_count=6" height="165"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucky20T&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=a78bfa&line=7c3aed&point=ff6b6b&area=true&area_color=a78bfa"/>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
 
 ## 🎓 Education
 
-```text
-📍 Sage University, Indore → B.Tech CST (2024 - Present)
+```
+📍 Sage University, Indore    →  B.Tech CST     2024 - Present
 ```
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucky20T&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky20T&layout=compact&theme=radical" width="48%"/>
-</p>
+---
 
-## 🌐 Connect with Me
-<p align="left">
-  <a href="www.linkedin.com/in/vishal-chakradhari-b481272ba"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/vritrahan_studios/"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" alt="Instagram"/></a>
-  <a href="https://youtube.com/@vritrahan_studios"><img src="https://img.icons8.com/color/48/youtube-play.png" width="40" alt="YouTube"/></a>
-  <a href="https://chakradhari_studios.artstation.com/"><img src="https://img.icons8.com/color/48/null/artstation.png" width="40" alt="ArtStation"/></a>
-  <a href="https://in.pinterest.com/vishalchakradhari6/"><img src="https://img.icons8.com/color/48/pinterest.png" width="40" alt="Pinterest"/></a>
-  <a href="https://open.spotify.com/artist/27yzB61IcKwnJ8geZdHuhq?si=fqnruN1-RX6I9x6yI8nPaQ"><img src="https://img.icons8.com/color/48/spotify.png" width="40" alt="Spotify"/></a>
-</p>
+## 🌐 Find Me Here
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucky20T)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-chakradhari-b481272ba/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vritrahan_studios/)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/27yzB61IcKwnJ8geZdHuhq?si=fqnruN1-RX6I9x6yI8nPaQ)
+[![ArtStation](https://img.shields.io/badge/ArtStation-13b5ea?style=for-the-badge&logo=artstation&logoColor=white)](https://chakradhari_studios.artstation.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@vritrahan_studios)
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://in.pinterest.com/vishalchakradhari6/)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Let's+build+something+great+together!&fontSize=18&fontColor=a78bfa&animation=fadeIn"/>
+
+</div>
