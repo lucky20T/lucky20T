@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-lucky20T.github.io-7c3aed?style=for-the-badge&labelColor=1e1b4b)](https://github.com/lucky20T)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-lucky20T.github.io-7c3aed?style=for-the-badge&labelColor=1e1b4b)](https://lucky20t.github.io/lucky20T/Protfolio3.html)
 [![Email](https://img.shields.io/badge/📧_Email-vishalchakradhari2025-7c3aed?style=for-the-badge&labelColor=1e1b4b)](mailto:vishalchakradhari2025@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=lucky20T&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/lucky20T)
 
