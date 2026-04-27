@@ -69,11 +69,10 @@ const vishal = {
 | # | Project | What it is | Status |
 |---|---------|-----------|------|
 | 🎮 | **GoDot 2D Platformer** | First try GoDot: 2D pixel art platformer prototype | [Live](https://lucky20t.github.io/first_try_GoDot/GoDot/index.html) |
-| 🎮 | **Gameplay Systems Prototype** | Core gameplay loops, AI, & movement systems in UE5 | *Coming Soon* |
-| 🧊 | **3D Environment & Assets** | Models, textures, and game-ready environments | *Coming Soon* |
-| 💻 | **DSA Practice & Mini-Tools** | C++ utility tools and algorithm implementations | *In Progress* |
+| 🧩 | **Kid Math Puzzle** | Interactive math puzzle game for kids built with React | [Live](https://kid-math-puzzle.vercel.app/) |
 | 🎵 | **Lofi G-3 Audio Track** | Relaxing game audio produced in FL Studio | *Available on Portfolio* |
 | 🎵 | **Try H-4 Audio Track** | Experimental game audio produced in FL Studio | *Available on Portfolio* |
+
 
 
 ---
