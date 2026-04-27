@@ -16,6 +16,7 @@ document.addEventListener('DOMContentLoaded', function () {
   if (toggle && nav) {
     toggle.addEventListener('click', function () {
       var open = nav.classList.toggle('open');
+      toggle.classList.toggle('open');
       toggle.setAttribute('aria-expanded', open);
     });
   }
@@ -30,7 +31,10 @@ document.addEventListener('DOMContentLoaded', function () {
           e.preventDefault();
           el.scrollIntoView({ behavior: 'smooth', block: 'start' });
           if (nav) nav.classList.remove('open');
-          if (toggle) toggle.setAttribute('aria-expanded', 'false');
+          if (toggle) {
+            toggle.classList.remove('open');
+            toggle.setAttribute('aria-expanded', 'false');
+          }
         }
       }
     });
