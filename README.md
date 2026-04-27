@@ -43,6 +43,7 @@ const vishal = {
 **Game Engines & Tools**
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![GoDot](https://img.shields.io/badge/GoDot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender_3D-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![FL Studio](https://img.shields.io/badge/FL_Studio-FF8C00?style=for-the-badge&logo=flstudio&logoColor=white)
 
@@ -67,11 +68,13 @@ const vishal = {
 
 | # | Project | What it is | Status |
 |---|---------|-----------|------|
+| 🎮 | **GoDot 2D Platformer** | First try GoDot: 2D pixel art platformer prototype | [Live](https://lucky20t.github.io/first_try_GoDot/GoDot/index.html) |
 | 🎮 | **Gameplay Systems Prototype** | Core gameplay loops, AI, & movement systems in UE5 | *Coming Soon* |
 | 🧊 | **3D Environment & Assets** | Models, textures, and game-ready environments | *Coming Soon* |
 | 💻 | **DSA Practice & Mini-Tools** | C++ utility tools and algorithm implementations | *In Progress* |
 | 🎵 | **Lofi G-3 Audio Track** | Relaxing game audio produced in FL Studio | *Available on Portfolio* |
 | 🎵 | **Try H-4 Audio Track** | Experimental game audio produced in FL Studio | *Available on Portfolio* |
+
 
 ---
 
