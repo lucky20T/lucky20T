@@ -70,6 +70,7 @@ const vishal = {
 |---|---------|-----------|------|
 | 🎮 | **GoDot 2D Platformer** | First try GoDot: 2D pixel art platformer prototype | [Live](https://lucky20t.github.io/first_try_GoDot/GoDot/index.html) |
 | 🧩 | **Kid Math Puzzle** | Interactive math puzzle game for kids built with React | [Live](https://kid-math-puzzle.vercel.app/) |
+| 📁 | **Game Design Docs** | Collection of GDDs covering concepts, mechanics & stories | [Folder](https://1drv.ms/f/c/218B77D348A01033/IgAUot58dHgcQpijSx_e_ba0AWk4RwZYFvcBu5DOtYGUflY?e=T9ONal) |
 | 🎵 | **Lofi G-3 Audio Track** | Relaxing game audio produced in FL Studio | *Available on Portfolio* |
 | 🎵 | **Try H-4 Audio Track** | Experimental game audio produced in FL Studio | *Available on Portfolio* |
 
